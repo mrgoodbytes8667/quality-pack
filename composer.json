@@ -1,0 +1,21 @@
+{
+    "name": "mrgoodbytes8667/quality-pack",
+    "description": "A pack whose recipe sets up monolog with an alternate base configuration",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MrGoodBytes",
+            "email": "bytes@mrgoodbytes.dev"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "friendsofphp/php-cs-fixer": "^3.58",
+        "rector/rector": "^1.2"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
